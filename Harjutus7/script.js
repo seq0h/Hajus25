@@ -45,7 +45,7 @@ let fetchProfile = async () => {
       headers: {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
-        "Authorization": "Bearer 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"
+        "Authorization": "Bearer github api key"
       }
     });
 
