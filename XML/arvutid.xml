@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arvutid>
+  <arvuti>
+    <protsessor tootja="AMD" taktisagedus="4.7GHz" tuumade_arv="8">AMD Ryzen 7 9800X3D</protsessor>
+    <operatiivmälu tootja="Corsair" tüüp="DDR5" maht="16GB" andmeedastuskiirus="6000MHz">Vengance</operatiivmälu>
+    <salvestusmälu tootja="Samsung" tüüp="SSD" maht="2000GB">Samsung 990 EVO Plus</salvestusmälu>
+    <emaplaat tootja="ASUS" toetab="DDR5">ASUS PRIME B650-PLUS</emaplaat>
+    <korpus tootja="Lian Li" >Lian Li O11 EVO RGB</korpus>
+    <toiteplokk tootja="be quiet!" võimsus="1000W">be quiet! Pure Power 12M</toiteplokk>
+    <graafikakaart tootja="NVIDIA" mälu="32GB">Nvidia GeForce RTX 5090 Founders edition</graafikakaart>
+    <monitor tootja="ASUS"  resolutsioon="1920x1080" suurus="24.1&quot;">Asus ROG Swift Pro PG248QP</monitor>
+    <klaviatuur tootja="Keychron" tüüp="Mehaaniline">Keychron Q1 QMK</klaviatuur>
+    <hiir tootja="Logitech" dpi="800">Logitech G PRO X</hiir>
+    <juhtpult tootja="Microsoft" ühendus="Bluetooth">Xbox Wireless Controller</juhtpult>
+    <kõlarid tootja="Logitech" võimsus="200W">Logitech Z623</kõlarid>
+    <kõrvaklapid tootja="HyperX" mudel="Cloud II" tüüp="Over-ear">HyperX Cloud II</kõrvaklapid>
+    <mikrofon tootja="Shure" tüüp="Dünaamiline">Shure SM7B</mikrofon>
+  </arvuti>
+</arvutid>

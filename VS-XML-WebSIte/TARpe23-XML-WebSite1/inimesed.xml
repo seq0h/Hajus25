@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<inimesed>
+    <inimene>
+        <eesnimi>Juku</eesnimi>
+        <perenimi>Juurikas</perenimi>
+		<sugu>Mees</sugu>
+        <synd>1963</synd>
+    </inimene>
+    <inimene>
+        <eesnimi>Juhan</eesnimi>
+        <perenimi>Kaalikas</perenimi>
+		<sugu>Mees</sugu>
+        <synd>1961</synd>
+    </inimene>
+    <inimene>
+        <eesnimi>Kalle</eesnimi>
+        <perenimi>Kaalikas</perenimi>
+		<sugu>Mees</sugu>
+        <synd>1975</synd>
+    </inimene>
+    <inimene>
+        <eesnimi>Mari</eesnimi>
+        <perenimi>Maasikas</perenimi>
+		<sugu>Naine</sugu>
+        <synd>1981</synd>
+    </inimene>
+    <inimene>
+        <eesnimi>Märt</eesnimi>
+        <perenimi>Kivi</perenimi>
+		<sugu>Mees</sugu>
+        <synd>1999</synd>
+    </inimene>
+</inimesed>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autod>
+	<auto>
+		<registrinumber>123ABC</registrinumber>
+		<omanik>
+			<perekonnanimi>Kivi</perekonnanimi>
+		</omanik>
+	</auto>
+	<auto>
+		<registrinumber>732ERF</registrinumber>
+		<omanik>
+			<perekonnanimi>Saar</perekonnanimi>
+		</omanik>
+	</auto>
+	<auto>
+		<registrinumber>999FPS</registrinumber>
+		<omanik>
+			<perekonnanimi>Ropz</perekonnanimi>
+		</omanik>
+	</auto>
+</autod>
