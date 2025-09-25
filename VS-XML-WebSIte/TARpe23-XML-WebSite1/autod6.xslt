@@ -5,9 +5,6 @@
 		<ul>
 			<xsl:for-each select="autod/auto">
 				<li>
-					<xsl:if test="$lastChar = '1' or $lastChar = '2'">
-							
-					</xsl:if>
 					<xsl:value-of select="substring(registrinumber1,3)"/>
 				</li>
 			</xsl:for-each>

@@ -20,6 +20,9 @@
         <div>
             <asp:Xml ID="xml4" runat="server" DocumentSource="~/inimesed.xml" TransformSource="~/inimesed3.xslt" />
         </div>
+        <div>
+            <asp:Xml ID="xml5" runat="server" DocumentSource="~/inimesed.xml" TransformSource="~/universaalne_struktuuri_vaade.xslt" />
+        </div>
     </form>
 </body>
 </html>

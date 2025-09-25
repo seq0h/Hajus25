@@ -87,6 +87,8 @@
     <Content Include="inimesed3.xslt" />
     <Content Include="Web.config" />
     <Content Include="inimesed.aspx" />
+    <Content Include="universaalne_struktuuri_vaade.xslt" />
+    <Content Include="universaalne_tabelite_vaade.xslt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="autod.aspx.cs">

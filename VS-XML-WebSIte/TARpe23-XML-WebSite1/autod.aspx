@@ -25,6 +25,12 @@
             <div>
                 <asp:Xml ID="xml4" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod4.xslt" />
             </div>
+            <div>
+                <asp:Xml ID="xml5" runat="server" DocumentSource="~/autod.xml" TransformSource="~/inimesed3.xslt" />
+            </div>
+            <div>
+                <asp:Xml ID="xml6" runat="server" DocumentSource="~/autod.xml" TransformSource="~/universaalne_struktuuri_vaade.xslt" />
+            </div>
         </div>
     </form>
 </body>

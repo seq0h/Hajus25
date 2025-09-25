@@ -5,29 +5,34 @@
         <perenimi>Juurikas</perenimi>
 		<sugu>Mees</sugu>
         <synd>1963</synd>
+		<mass>75</mass>
     </inimene>
     <inimene>
         <eesnimi>Juhan</eesnimi>
         <perenimi>Kaalikas</perenimi>
 		<sugu>Mees</sugu>
         <synd>1961</synd>
+		<mass>81</mass>
     </inimene>
     <inimene>
         <eesnimi>Kalle</eesnimi>
         <perenimi>Kaalikas</perenimi>
 		<sugu>Mees</sugu>
         <synd>1975</synd>
+		<mass>49</mass>
     </inimene>
     <inimene>
         <eesnimi>Mari</eesnimi>
         <perenimi>Maasikas</perenimi>
 		<sugu>Naine</sugu>
         <synd>1981</synd>
+		<mass>52</mass>
     </inimene>
     <inimene>
         <eesnimi>Märt</eesnimi>
         <perenimi>Kivi</perenimi>
 		<sugu>Mees</sugu>
         <synd>1999</synd>
+		<mass>70</mass>
     </inimene>
 </inimesed>
