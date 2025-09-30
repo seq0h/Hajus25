@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="et">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Perekond - Elizabeth II ja Charles (näide)</title>
+<style>
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; padding: 20px; }
+  table { border-collapse: collapse; width: 100%; margin-bottom: 1rem; }
+  th, td { border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; }
+  th { background: #f4f4f4; }
+  .green-short { background: #c8f7c5; }
+  .controls { display:flex; gap:12px; flex-wrap:wrap; margin-bottom:12px; }
+  .controls input[type="text"], .controls input[type="number"] { padding:6px; }
+  .badge { display:inline-block; padding:2px 6px; border-radius:10px; background:#eee; margin-right:6px; }
+  .highlight { background:#fffbdd; }
+  caption { text-align:left; font-weight:bold; margin-bottom:6px; }
+</style>
+</head>
+<body>
+  <h1>Perekond — Elizabeth II & Charles (näidisandmed)</h1>
+  <p>Allikas: Wikipedia — Family tree of the British royal family. (Andmed on siin näidisena käsitsi koostatud; saate neid hõlpsasti täiendada.)</p>
+
+  <section>
+    <h2>Otsing & filtrid</h2>
+    <div class="controls">
+      <div>
+        <label>Otsi nime järgi (substring): <input id="qName" type="text" placeholder="Sisesta fragment..." /></label>
+      </div>
+      <div>
+        <label>Otsi nime järgi (regex): <input id="qRegex" type="text" placeholder="nt ^P (algusega P)"/></label>
+      </div>
+      <div>
+        <label>Nime pikkus (täpselt): <input id="qLen" type="number" min="0" /></label>
+      </div>
+      <div>
+        <label>Näita ainult, kellel ≥ 2 last: <input id="only2plus" type="checkbox" /></label>
+      </div>
+      <div>
+        <button id="apply">Rakenda</button>
+        <button id="reset">Taasta kõik</button>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Ülesanded / Kiirülevaade</h2>
+    <div id="summary"></div>
+  </section>
+
+  <section>
+    <h2>Sugupuu tabel</h2>
+    <table id="familyTable">
+      <caption>Inimeste tabel (Name, birthYear, deathYear, parent, grandparent, #children, isLeaf, age, parent's age at birth)</caption>
+      <thead>
+        <tr>
+          <th>Nimi</th>
+          <th>Sünniaasta</th>
+          <th>Surmaaasta</th>
+          <th>Vanem</th>
+          <th>Vanavanaema/isa</th>
+          <th>Lasted</th>
+          <th>Laps? (ilma järglasteta)</th>
+          <th>Vanus (aastates)</th>
+          <th>Mitmendal vanema sünniaastal sündis</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
