@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="119695376">
+                <value>
+                  <list>
+                    <Term value="shift" definition="Removes the first element from an array and returns it, shifting remaining elements left." />
+                    <Term value="xit" definition="A Mocha test function that marks a test as skipped and does not run it." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="129090040">
+                <value>
+                  <list>
+                    <Term value="container" definition="A lightweight, standalone executable package that includes everything needed to run a piece of software." />
+                    <Term value="dependencies" definition="External libraries or packages required for a program or project to function correctly." />
+                    <Term value="port" definition="A communication endpoint for network connections, identified by a number, used to route traffic." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="135310383">
+                <value>
+                  <list>
+                    <Term value="onChange" definition="Event handler in React triggered when the value of an input element changes." />
+                    <Term value="localStorage" definition="Web API for storing key-value pairs in a user's browser persistently." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="144284767">
+                <value>
+                  <list>
+                    <Term value="handler function" definition="A function that processes events or requests, such as HTTP requests, in a program." />
+                    <Term value="terminal" definition="A text-based interface for entering commands and interacting with the operating system." />
+                    <Term value="dependencies" definition="External libraries or modules required for a project to work correctly." />
+                    <Term value="IDE" definition="Integrated Development Environment; software for writing, testing, and debugging code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="204980053">
+                <value>
+                  <list>
+                    <Term value="WebSockets" definition="A protocol enabling real-time, two-way communication between client and server over a single connection." />
+                    <Term value="API" definition="A set of rules allowing programs to interact and exchange data with each other." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="226012020">
+                <value>
+                  <list>
+                    <Term value="token" definition="A string used to verify user identity in authentication systems, often encoded and signed." />
+                    <Term value="headers" definition="Key-value pairs sent with HTTP requests or responses, providing metadata such as authentication information." />
+                    <Term value="payload" definition="The data contained within a token, often user information or claims." />
+                    <Term value="status code" definition="A numeric code in HTTP responses indicating the result of a request, e.g., 401 for unauthorized." />
+                    <Term value="route handler" definition="A function that processes HTTP requests for a specific route in a web server." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="260756437">
+                <value>
+                  <list>
+                    <Term value="REST API" definition="A set of rules for interacting with web services using HTTP methods like GET, POST, PUT, DELETE." />
+                    <Term value="authentication tokens" definition="Digital keys used to verify a user's identity when accessing protected resources or APIs." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="317222861">
+                <value>
+                  <list>
+                    <Term value="Dockerfile" definition="A text file with instructions to build a Docker image for an application." />
+                    <Term value="build artifacts" definition="Files generated as output from the build process, ready for deployment or distribution." />
+                    <Term value="base image" definition="A starting point Docker image used to build new images by adding layers on top." />
+                    <Term value="container" definition="A lightweight, isolated environment to run applications, using the host OS kernel." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="329641410">
+                <value>
+                  <list>
+                    <Term value="production" definition="The live environment where applications are deployed for end-users, as opposed to development or testing." />
+                    <Term value="backend" definition="The server-side part of an application, handling data processing, storage, and business logic." />
+                    <Term value="frontend" definition="The client-side part of an application, responsible for user interface and user experience." />
+                    <Term value="dependencies" definition="External libraries or packages that an application requires to function properly." />
+                    <Term value="node" definition="A selectable item in a hierarchy, often representing a resource or component in a UI." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="336348570">
+                <value>
+                  <list>
+                    <Term value="interface" definition="A shared boundary or contract for how different components interact or communicate in software." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="406538705">
+                <value>
+                  <list>
+                    <Term value="route" definition="A specific URL pattern handled by a server, mapping requests to code logic." />
+                    <Term value="test file" definition="A file containing code to automatically verify that software behaves as expected." />
+                    <Term value="error handling" definition="The process of responding to and managing errors in a program's execution." />
+                    <Term value="return code" definition="A numeric value indicating the result of an operation, often used in HTTP responses." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="466701670">
+                <value>
+                  <list>
+                    <Term value="full-stack" definition="Development involving both frontend (client-side) and backend (server-side) parts of an application." />
+                    <Term value="JS" definition="Common abbreviation for JavaScript, a popular programming language for web development." />
+                    <Term value="jsx" definition="A syntax extension for JavaScript, commonly used with React to describe UI elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="562210011">
+                <value>
+                  <list>
+                    <Term value="describe" definition="A function in testing frameworks to group related test cases together." />
+                    <Term value="it" definition="A function in testing frameworks to define an individual test case." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="580694249">
+                <value>
+                  <list>
+                    <Term value="middleware" definition="A function that processes requests between the client and server, often used for tasks like authentication or logging." />
+                    <Term value="router" definition="An object that defines and groups route handlers for specific URL paths in a web application." />
+                    <Term value="status code" definition="A numeric code in HTTP responses indicating the result of a request, like 200 for success or 404 for not found." />
+                    <Term value="hashed password" definition="A password transformed into a fixed-length string using a cryptographic hash function for secure storage." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="601926703">
+                <value>
+                  <list>
+                    <Term value="cors" definition="A middleware that enables cross-origin requests between different domains in web applications." />
+                    <Term value="express.json" definition="Express middleware that parses incoming JSON request bodies and populates req.body." />
+                    <Term value="morgan" definition="A logging middleware for Express that records HTTP requests and responses." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="604472458">
+                <value>
+                  <list>
+                    <Term value="component-driven" definition="An architecture where applications are built from independent, reusable pieces called components." />
+                    <Term value="declarative" definition="A programming style where you describe what should happen, not how to do it." />
+                    <Term value="build system" definition="A tool that automates compiling, bundling, and optimizing source code for deployment." />
+                    <Term value="development server" definition="A local server that automatically reloads and serves your app during development." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="651046943">
+                <value>
+                  <list>
+                    <Term value="REST" definition="An architectural style for designing networked APIs using HTTP methods like GET, POST, PUT, and DELETE." />
+                    <Term value="route" definition="A URL pattern and handler in a web server that processes specific HTTP requests." />
+                    <Term value="terminal" definition="A text-based interface for interacting with the operating system or running commands." />
+                    <Term value="port" definition="A numerical identifier for a specific process or service on a computer network." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="754449408">
+                <value>
+                  <list>
+                    <Term value="dependency" definition="A package or library that a project requires to function properly." />
+                    <Term value="handlers" definition="A function that processes incoming requests and generates responses in a web application." />
+                    <Term value="route" definition="A URL pattern that determines how requests are handled in a web server." />
+                    <Term value="method chaining" definition="A programming technique where multiple methods are called sequentially on the same object." />
+                    <Term value="middleware" definition="A function that processes requests between receiving them and sending responses, often used for tasks like authentication." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="782250630">
+                <value>
+                  <list>
+                    <Term value="useEffect" definition="A React hook for running side effects in function components, such as data fetching or subscriptions." />
+                    <Term value="localStorage" definition="A web storage API that allows saving key-value pairs in a user's browser persistently." />
+                    <Term value="emit" definition="A method used to send events and data to the server or other clients via WebSockets." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="811353060">
+                <value>
+                  <list>
+                    <Term value="WebSockets" definition="A protocol enabling real-time, two-way communication between client and server over a single persistent connection." />
+                    <Term value="emits" definition="To send or trigger an event, often with data, in event-driven programming." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="846882289">
+                <value>
+                  <list>
+                    <Term value="abstraction layer" definition="A way to hide complex details, exposing only necessary functionality to other parts of the program." />
+                    <Term value="interface" definition="A shared boundary for communication between software components, defining accessible methods or properties." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="879112805">
+                <value>
+                  <list>
+                    <Term value="Dockerfile" definition="A text file with instructions to build a Docker image for your application." />
+                    <Term value="Docker Compose" definition="A tool for defining and running multi-container Docker applications using a YAML file." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="887022098">
+                <value>
+                  <list>
+                    <Term value="localStorage" definition="A web browser API for storing key-value pairs locally on the user's device." />
+                    <Term value="useEffect" definition="A React hook that runs side effects after component render or update." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="955104686">
+                <value>
+                  <list>
+                    <Term value="backend" definition="The server-side part of an application handling data processing and logic, not visible to users." />
+                    <Term value="route" definition="A URL pattern that the server listens to and responds with specific content or actions." />
+                    <Term value="status code" definition="A number sent by a server to indicate the result of an HTTP request." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="961251836">
+                <value>
+                  <list>
+                    <Term value="User authorization" definition="Process of verifying user identity to grant access to specific features or data." />
+                    <Term value="web app development" definition="The process of creating applications that run in a web browser." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1009089292">
+                <value>
+                  <list>
+                    <Term value="middleware" definition="A function that processes requests between the client and server, often used for authentication or logging." />
+                    <Term value="payload" definition="The data contained within a token, often holding user information or claims." />
+                    <Term value="handshake" definition="The initial connection process between a client and server in socket communication." />
+                    <Term value="io.use" definition="A method to register middleware functions for all socket connections in a Socket.IO server." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1035154463">
+                <value>
+                  <list>
+                    <Term value="status code" definition="A number indicating the result of an HTTP request, like 200 for success or 400 for error." />
+                    <Term value="application/json" definition="A MIME type indicating the HTTP response body contains JSON-formatted data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1044966090">
+                <value>
+                  <list>
+                    <Term value="vite.config.js" definition="Configuration file for Vite, a build tool for modern web projects." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1057303589">
+                <value>
+                  <list>
+                    <Term value="supertest" definition="A Node.js library for testing HTTP servers by making requests and asserting responses." />
+                    <Term value="afterAll" definition="A Jest hook that runs a function once after all tests in a file complete." />
+                    <Term value="beforeAll" definition="A Jest hook that runs a function once before all tests in a file start." />
+                    <Term value="describe" definition="A Jest function for grouping related tests into a test suite." />
+                    <Term value="It" definition="A Jest function that defines an individual test case." />
+                    <Term value="endpoint" definition="A specific URL path where an API receives requests and sends responses." />
+                    <Term value="dependencies" definition="External libraries or modules required for a project to work." />
+                    <Term value="testEnvironment" definition="Jest configuration option specifying the environment in which tests run, e.g., 'node' or 'jsdom'." />
+                    <Term value="testMatch" definition="Jest configuration option for specifying which files are considered test files." />
+                    <Term value="npx" definition="A Node.js tool to execute binaries from npm packages without installing them globally." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1073544913">
+                <value>
+                  <list>
+                    <Term value="prop" definition="A property passed to a React component to configure its behavior or data." />
+                    <Term value="callback" definition="A function passed as an argument to be executed later, often after an event." />
+                    <Term value="component" definition="A reusable, self-contained piece of UI in React applications." />
+                    <Term value="state" definition="An object or value that determines a component’s behavior and rendering in React." />
+                    <Term value="rendered" definition="The process of generating and displaying UI elements on the screen." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1098866623">
+                <value>
+                  <list>
+                    <Term value="callback" definition="A function passed as an argument to another function, to be called later." />
+                    <Term value="frontend" definition="The part of a web application that users interact with directly in their browser." />
+                    <Term value="backend" definition="The server-side part of an application, handling logic, data storage, and security." />
+                    <Term value="component" definition="A reusable, self-contained piece of UI in frameworks like React." />
+                    <Term value="handler" definition="A function designed to handle specific events, such as clicks or form submissions." />
+                    <Term value="Route" definition="The process of defining how URLs map to components or pages in a web application." />
+                    <Term value="API" definition="Application Programming Interface; a set of rules for interacting with software components." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1152236833">
+                <value>
+                  <list>
+                    <Term value="axios" definition="A popular JavaScript library for making HTTP requests from the browser or Node.js." />
+                    <Term value="WebSocket" definition="A protocol enabling two-way communication between client and server over a single, long-lived connection." />
+                    <Term value="Socket.IO" definition="A JavaScript library for real-time, bidirectional communication between web clients and servers." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1168457957">
+                <value>
+                  <list>
+                    <Term value="polling" definition="Repeatedly requesting data from a server at regular intervals to check for updates." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1187389556">
+                <value>
+                  <list>
+                    <Term value="Express" definition="A minimal and flexible Node.js web application framework for building APIs and web servers." />
+                    <Term value="http" definition="A Node.js built-in module for creating HTTP servers and handling HTTP requests." />
+                    <Term value="Vite" definition="A fast build tool and development server for modern web projects, especially with frameworks like React." />
+                    <Term value="concurrently" definition="A tool to run multiple commands or scripts simultaneously in a single terminal window." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1190405467">
+                <value>
+                  <list>
+                    <Term value="backend" definition="The server-side part of an application, handling data processing and business logic." />
+                    <Term value="interface" definition="A defined structure specifying methods and properties for objects to implement in code." />
+                    <Term value="abstraction" definition="A technique to hide complex implementation details, exposing only essential features." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1235626291">
+                <value>
+                  <list>
+                    <Term value="vite" definition="A fast build tool and development server for modern web projects, especially with frameworks like React." />
+                    <Term value="jsx" definition="A syntax extension for JavaScript that allows writing HTML-like code in React components." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1249040778">
+                <value>
+                  <list>
+                    <Term value="APIs" definition="A set of rules for interacting with software components or web services." />
+                    <Term value="middleware" definition="Functions in Express.js that process requests before reaching route handlers." />
+                    <Term value="boilerplate" definition="Standardized code used as a starting point for new projects." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1332779314">
+                <value>
+                  <list>
+                    <Term value="primaryKey" definition="A column or field that uniquely identifies each record in a database table." />
+                    <Term value="findByPk" definition="A Sequelize method to find a record by its primary key." />
+                    <Term value="findAll" definition="A Sequelize method to retrieve all records that match given criteria." />
+                    <Term value="destroy" definition="A Sequelize method used to delete records from a database table." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1360743828">
+                <value>
+                  <list>
+                    <Term value="frontend" definition="The part of a web application that users interact with directly in their browsers." />
+                    <Term value="React" definition="A popular JavaScript library for building user interfaces, especially single-page applications." />
+                    <Term value="routing" definition="The process of determining which page or component to display based on the URL." />
+                    <Term value="state" definition="An object that stores dynamic data and determines a component's behavior in React." />
+                    <Term value="REST APIs" definition="Web services that follow REST principles, allowing communication between client and server using HTTP methods." />
+                    <Term value="tokens" definition="Small pieces of data used for authentication and authorization in web applications." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1364385768">
+                <value>
+                  <list>
+                    <Term value="middleware" definition="A function in Express that processes requests before they reach the route handler." />
+                    <Term value="hashed" definition="A password transformed into a fixed-length string using a cryptographic hash function for security." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1388659052">
+                <value>
+                  <list>
+                    <Term value="useState" definition="A React Hook that lets you add state to functional components." />
+                    <Term value="useEffect" definition="A React Hook for running side effects in functional components after render." />
+                    <Term value="localStorage" definition="A browser API for storing key-value data persistently on the client side." />
+                    <Term value="axios" definition="A popular JavaScript library for making HTTP requests from the browser or Node.js." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1409077450">
+                <value>
+                  <list>
+                    <Term value="middleware" definition="A function that processes requests between the client and server, often used for logging or authentication." />
+                    <Term value="Dependencies" definition="External libraries or modules that a project requires to function correctly." />
+                    <Term value="package.json" definition="A file in Node.js projects that manages metadata and dependencies for the application." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1440194198">
+                <value>
+                  <list>
+                    <Term value="frontend" definition="The part of a web application that users interact with directly in their browser." />
+                    <Term value="backend" definition="The server-side part of an application handling logic, database, and client requests." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1532672564">
+                <value>
+                  <list>
+                    <Term value="useState" definition="A React Hook that lets you add state variables to functional components." />
+                    <Term value="localStorage" definition="A web browser API for storing key-value data locally, persisting across sessions." />
+                    <Term value="POST" definition="An HTTP request method used to send data to a server to create or update resources." />
+                    <Term value="axios" definition="A JavaScript library for making HTTP requests from the browser or Node.js." />
+                    <Term value="WebSocket" definition="A protocol enabling two-way, real-time communication between client and server over a single connection." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1544357936">
+                <value>
+                  <list>
+                    <Term value="Dockerfile" definition="A text file with instructions to build a Docker image for your application." />
+                    <Term value="Compose file" definition="A YAML file defining how to run multi-container Docker applications together." />
+                    <Term value=".env" definition="A file containing environment variables, often used to manage configuration and secrets." />
+                    <Term value="repository" definition="A storage location for code, often managed with version control systems like Git." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1559349141">
+                <value>
+                  <list>
+                    <Term value="REST API" definition="A web service that uses HTTP requests for communication, following REST architectural principles." />
+                    <Term value="real-time communication" definition="Exchanging data instantly between client and server, often using technologies like WebSockets." />
+                    <Term value="in-memory storage" definition="Data stored temporarily in RAM, lost when the application stops or restarts." />
+                    <Term value="data layer" definition="The part of an application responsible for managing and accessing data sources." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1561583045">
+                <value>
+                  <list>
+                    <Term value="payload" definition="The data sent with an event or request, often containing relevant information for processing." />
+                    <Term value="broadcast" definition="Sending a message to all connected clients simultaneously in a networked application." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1577145629">
+                <value>
+                  <list>
+                    <Term value="WebSockets" definition="A protocol enabling two-way, real-time communication between client and server over a single persistent connection." />
+                    <Term value="routes" definition="URL patterns in a web application that determine how requests are handled by the backend." />
+                    <Term value="authorization" definition="The process of verifying what actions or resources a user is allowed to access." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1606388351">
+                <value>
+                  <list>
+                    <Term value="middleware" definition="A function that processes requests before they reach the main route handler in web applications." />
+                    <Term value="route handlers" definition="Functions that process HTTP requests for specific paths in a web server." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1611446084">
+                <value>
+                  <list>
+                    <Term value="useState" definition="React Hook for adding state to functional components." />
+                    <Term value="onChange" definition="Event handler in React triggered when a form field's value changes." />
+                    <Term value="await" definition="JavaScript keyword used to wait for a Promise to resolve in async functions." />
+                    <Term value="POST" definition="HTTP method for sending data to a server, often used for creating resources." />
+                    <Term value="Map" definition="JavaScript object type that stores key-value pairs and remembers the original insertion order." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1665845682">
+                <value>
+                  <list>
+                    <Term value="router" definition="An object in Express.js used to define a group of related routes." />
+                    <Term value="handlers" definition="Functions that process incoming HTTP requests for specific routes in web frameworks." />
+                    <Term value="import" definition="A statement used to include modules or files in JavaScript or Node.js." />
+                    <Term value="app.use" definition="Express.js method to mount middleware or routers at a specified path." />
+                    <Term value="res.json" definition="Express.js method to send a JSON response to the client." />
+                    <Term value="req.body" definition="An object containing data sent by the client in the body of an HTTP request." />
+                    <Term value="res.status" definition="Express.js method to set the HTTP status code for the response." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1742618480">
+                <value>
+                  <list>
+                    <Term value="routes" definition="URL patterns that determine how requests are handled by a server or web application." />
+                    <Term value="logging" definition="Recording information about a program’s execution, often for debugging or monitoring purposes." />
+                    <Term value="requests" definition="Messages sent by clients to servers to ask for data or perform actions." />
+                    <Term value="responses" definition="Messages sent from a server to a client, usually as a reply to a request." />
+                    <Term value="IDEs" definition="Integrated Development Environments; software applications that provide tools for coding, debugging, and testing." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1785284699">
+                <value>
+                  <list>
+                    <Term value="API" definition="A set of rules for communication between software components or systems." />
+                    <Term value="endpoints" definition="Specific URLs on a server where API requests are sent to access resources or services." />
+                    <Term value="stateless" definition="A system where each request is independent and does not rely on previous interactions." />
+                    <Term value="frameworks" definition="A collection of tools and libraries that simplifies software development for specific tasks." />
+                    <Term value="runtime environment" definition="Software that executes code and provides necessary services for running programs." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1817664494">
+                <value>
+                  <list>
+                    <Term value="JWT" definition="JSON Web Token, a compact way to securely transmit information between parties as a JSON object." />
+                    <Term value="handshake" definition="Initial connection process in Socket.IO, where authentication and setup information are exchanged." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1911572928">
+                <value>
+                  <list>
+                    <Term value="runtime environment" definition="A platform that executes code, providing necessary resources and services for programs to run." />
+                    <Term value="front-end" definition="The part of an application that users interact with directly in their browser." />
+                    <Term value="server-side" definition="Code that runs on a server, handling requests and processing data before sending responses to clients." />
+                    <Term value="package ecosystem" definition="A collection of libraries and tools that can be integrated into projects to extend functionality." />
+                    <Term value="event-driven" definition="A programming paradigm where flow is determined by events like user actions or messages." />
+                    <Term value="asynchronous" definition="A method of programming where tasks run independently without blocking the main execution flow." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1971171645">
+                <value>
+                  <list>
+                    <Term value="JSON Web Token" definition="A compact, URL-safe token format used for securely transmitting information between parties as a JSON object." />
+                    <Term value="crypto" definition="A built-in Node.js module providing cryptographic functionality such as encryption, decryption, and secure random number generation." />
+                    <Term value="repositories" definition="A storage location for code, typically managed with version control systems like Git." />
+                    <Term value="package.json" definition="A file in Node.js projects that defines metadata, dependencies, and scripts for the project." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2024241856">
+                <value>
+                  <list>
+                    <Term value="JSX" definition="A syntax extension for JavaScript that allows mixing HTML-like code with JavaScript logic." />
+                    <Term value="React" definition="A JavaScript library for building user interfaces using components and state." />
+                    <Term value="hook" definition="A special function in React that lets you use state and other features in functional components." />
+                    <Term value="state" definition="An object or value that determines a component's behavior and how it renders." />
+                    <Term value="onChange" definition="An event handler attribute in React triggered when input field values change." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2028183484">
+                <value>
+                  <list>
+                    <Term value="route" definition="A URL pattern the server listens to, triggering specific handler code when matched." />
+                    <Term value="handler" definition="A function that processes incoming requests for a specific route in a web server." />
+                    <Term value="status code" definition="A numeric code in HTTP responses indicating the result of a request, like 200 or 400." />
+                    <Term value="query parameters" definition="Key-value pairs in a URL after '?', used to pass data to the server." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2029672918">
+                <value>
+                  <list>
+                    <Term value="state" definition="An object in React that stores dynamic data and determines component rendering." />
+                    <Term value="onChange" definition="An event handler in React triggered when the value of an input element changes." />
+                    <Term value="value" definition="A property in React input elements that sets or reflects the current input content." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2073816390">
+                <value>
+                  <list>
+                    <Term value="authentication" definition="The process of verifying a user's identity before granting access to resources." />
+                    <Term value="Single Page Applications" definition="Web apps that load a single HTML page and dynamically update content without full page reloads." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2117562971">
+                <value>
+                  <list>
+                    <Term value="backend" definition="The server-side part of an application, handling data storage, logic, and communication with databases." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2137385865">
+                <value>
+                  <list>
+                    <Term value="Dockerfile" definition="A text file with instructions to build a Docker image for a containerized application." />
+                    <Term value="containers" definition="A lightweight, isolated environment for running applications, created and managed by containerization platforms like Docker." />
+                    <Term value="image" definition="A packaged snapshot of an application and its dependencies, used to create containers." />
+                    <Term value="environment variables" definition="Key-value pairs used to configure applications at runtime without changing code." />
+                    <Term value="persistent storage" definition="Storage that retains data even after the container is stopped or removed." />
+                    <Term value="internal network" definition="A private network for containers to communicate securely within the same Docker environment." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="103" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
